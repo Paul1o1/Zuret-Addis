@@ -230,7 +230,7 @@ button {
 }
 
 .header_section {
-    background-image: url(../images/yohannes-minas-YPLosSc3w6A-unsplash.jpg);
+    background-image: url(../images/old/image-7.jpg);
     height: auto;
     background-size: 100%;
     width: 100%;
@@ -265,11 +265,17 @@ button {
 .banner_section {
     width: 100%;
     float: left;
-     background-image: url(/images/yohannes-minas-YPLosSc3w6A-unsplash.jpg);
+     background-image: url(/images/old/image-7.jpg);
     height: 700px;
     background-size: 100%;
     margin-top: 10px;
     margin-bottom: 390px;
+}
+.logo-text{
+    font-size: 50px;
+    font-weight: 600;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
 }
 
 .banner_taital {
@@ -556,11 +562,11 @@ button {
 
 .read_bt a:hover {
     font-size: 18px;
-    color: #5c5d76;
+    color: #d96613;
 }
 
 .image_5 {
-    width: 100%;
+    width: 50%;
     float: left;
 }
 
@@ -817,11 +823,11 @@ button {
 
 .tag_bt li a:hover {
     color: #ffffff;
-    background-color: #0c1045;
+    background-color: #05621e;
 }
 
 .tag_bt li.active a {
-    background-color: #0c1045;
+    background-color: #05621e;
     color: #ffffff;
 }
 
@@ -852,7 +858,7 @@ button {
 
 .tag_bt_2 li a:hover {
     color: #ffffff;
-    background-color: #0c1045;
+    background-color: #05621e;
 }
 
 .contact_section {
@@ -939,7 +945,7 @@ textarea#comment::placeholder {
 
 .send_bt a:hover {
     color: #ffffff;
-    background-color: #0c1045;
+    background-color: #3a6a03;
 }
 
 .carousel-indicators li {
